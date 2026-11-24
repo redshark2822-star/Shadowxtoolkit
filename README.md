@@ -16,7 +16,8 @@ A lightweight, automated installer for essential cybersecurity and bug bounty to
 2.  Clone this repository and run the installer:
 
 ```bash
-git clone https://github.com/USERNAME/REPO_NAME.git
-cd REPO_NAME
+git clone https://github.com/redshark2822-star/Shadowxtoolkit.git
+cd Shadowxtoolkit
 chmod +x install.sh
 ./install.sh
+made officially by shadowxploit
