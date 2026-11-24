@@ -20,4 +20,4 @@ git clone https://github.com/redshark2822-star/Shadowxtoolkit.git
 cd Shadowxtoolkit
 chmod +x install.sh
 ./install.sh
-made officially by shadowxploit
+
